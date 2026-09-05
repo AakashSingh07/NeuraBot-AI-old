@@ -11,7 +11,7 @@
 ---
 
 # 🌐 Live Application
-👉 https://neurabot-ai.streamlit.app  
+👉 [https://neurabot-ai.streamlit.app](https://neurabot-ai-main-q9e8rugtpljkochpn9vaq7.streamlit.app/)  
 
 *(If the app is sleeping, allow 20–40 seconds to wake up.)*
 
